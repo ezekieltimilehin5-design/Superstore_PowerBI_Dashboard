@@ -77,7 +77,27 @@ Provides insights into product sales, quantity sold, and profitability to identi
 
 ## Dashboard Preview
 
-Dashboard screenshots are included in this repository to showcase the interactive reports and business insights generated from the analysis.
+### Executive Overview
+
+![Executive Overview](Executive%20overview.png)
+
+### Sales Analysis
+
+![Sales Analysis](Sales%20Analysis%20dashboard.png)
+
+### Customer Analysis
+
+![Customer Analysis](Customer%20Analysis%20dashboard.png)
+
+### Profitability Analysis
+
+![Profitability Analysis](Profitability%20Analysis%20dashboard.png)
+
+### Product Analysis
+
+![Product Analysis](Product%20Analysis%20dashboard.png)
+
+
 
 ---
 
